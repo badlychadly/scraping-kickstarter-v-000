@@ -18,7 +18,6 @@ def create_project_hash
     }
   end
 puts  projects
-  binding.pry
 end
 
 
